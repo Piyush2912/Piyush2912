@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Piyush Katariya</h1>
 <h3 align="center">A Computer Science and Engineering Student from India</h3>
 
-<p align="left"> <img src="https://www.linkedin.com/in/piyush-katariya-197332180/" alt="piyush2912" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush2912&label=Profile%20views&color=0e75b6&style=flat" alt="piyush2912" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush2912" alt="piyush2912" /></a> </p>
 
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/piyush katariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush katariya" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/piyush-katariya-197332180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush katariya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
