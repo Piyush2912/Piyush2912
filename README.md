@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Piyush Katariya</h1>
 <h3 align="center">A Computer Science and Engineering Student from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=piyush2912&label=Profile%20views&color=0e75b6&style=flat" alt="piyush2912" /> </p>
+<p align="left"> <img src="https://www.linkedin.com/in/piyush-katariya-197332180/" alt="piyush2912" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyush2912" alt="piyush2912" /></a> </p>
 
