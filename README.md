@@ -24,9 +24,13 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **piyushkatariya95@gmail.com**
 
-<h3 align="left">Connect with me!:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/piyush-katariya-197332180/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush katariya" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/piyush katariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyush katariya" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/piyush2912" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="piyush2912" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/piyushkatariya12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="piyushkatariya12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/piyush_katariya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="piyush_katariya" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@piyush2912" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@piyush2912" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
